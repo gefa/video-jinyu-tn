@@ -7,7 +7,7 @@ Created on Fri Feb 28 16:32:55 2020
 """
 
 
-#from getwordtwitter2 import get_all_tweets
+from getwordtwitter2 import get_all_tweets
 
 def test_get_all_tweets():
     pass
