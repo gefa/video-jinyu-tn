@@ -23,7 +23,7 @@ jobs:
         pip install -r requirements.txt
         pip install tweepy
         pip install opencv
-        pip install Pillow
+        pip install pillow
     - name: Lint with flake8
       run: |
         pip install flake8
