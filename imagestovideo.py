@@ -7,8 +7,8 @@ Created on Tue Feb 18 18:03:47 2020
 """
 
 import os
-import cv2
 import wordtoimage2
+import cv2
 
 
 
