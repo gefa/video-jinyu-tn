@@ -19,14 +19,10 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
+        pip install OpenCV
+        pip install tweepy
         pip freeze > requirements.txt        
         pip install -r requirements.txt
-    - name: Install OpenCV
-      run: |
-        pip install OpenCV
-    - name: Install tweepy
-      run: |
-        pip install tweepy
     - name: Lint with flake8
       run: |
         pip install flake8
