@@ -1,4 +1,6 @@
-To use tweepycv2 and PIL, please do:
-pip install tweepy
-pip install opencv-python
-pip install Pillow
+tweepy >= 3.8.0
+requests >= 2.21.0
+configparser
+Image
+pillow >= 4
+opencv
