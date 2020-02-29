@@ -22,6 +22,7 @@ jobs:
         pip freeze > requirements.txt
         pip install -r requirements.txt
         pip install tweepy
+        pip install Image
     - name: Lint with flake8
       run: |
         pip install flake8
