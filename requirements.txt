@@ -1,0 +1,4 @@
+To use tweepycv2 and PIL, please do:
+pip install tweepy
+pip install opencv-python
+pip install Pillow
