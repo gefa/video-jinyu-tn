@@ -6,6 +6,7 @@ video-jinyu-tn created by GitHub Classroom
 2. Convert the tweets into images and convert the images into a video.
 ## File description:
 `testcase` : the result of queue.py, contains results of 10 usernames.
+
 `ComingSoon.ttf`: the font this homework used.
 `test.json` : json file used when there is no API keys.
 
